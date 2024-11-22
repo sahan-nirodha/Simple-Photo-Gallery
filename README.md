@@ -1,6 +1,7 @@
-This is a small interactive photo gallery 
+This is a Small Interactive Photo Gallery Using HTML, CSS, Java Script
 
             Screen Shots Of The Photo Gallery
+            
 All Pictures
 ![Screenshot 2024-11-22 202527](https://github.com/user-attachments/assets/7bb03b23-36b4-4351-90f4-5dcb7a5a14dc)
 
